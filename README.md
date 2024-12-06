@@ -14,7 +14,7 @@ This repository contains a plant disease prediction system built using the Mobil
 
 - `Models/`: Contains pretrained models.
 - `Plant Disease Prediction Sample App/`: Android project files.
-- `images/`: Sample dataset images.
+- `images/`: Sample App Screenshots.
 - `plant_mobilenet.ipynb`: Training and testing notebook.
 - `sample_app.apk`: Sample Android app for disease prediction.
 
